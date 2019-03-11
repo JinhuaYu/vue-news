@@ -1,0 +1,3 @@
+html{
+  font-size: 37.5px;  /* 解决UC浏览，rem适配问题 https://www.cnblogs.com/chenrong/articles/4686601.html */
+}
